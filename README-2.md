@@ -6,8 +6,8 @@
 
 
 ## Table of Contents
-* [Problem Statement](#problem statement)
-* [General Info](#general info)
+* [Problem Statement](#problem-statement)
+* [General Info](#general-info)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
